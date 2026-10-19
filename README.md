@@ -33,6 +33,4 @@ length_of_stay, billing_amount, readmitted_30d, satisfaction_score.
 ## Tools
 Python, pandas, matplotlib, Jupyter Notebook, VS Code
 
-## Next steps
-- Add a boxplot to show the spread of stays
-- Analyse readmission rates over time
+
